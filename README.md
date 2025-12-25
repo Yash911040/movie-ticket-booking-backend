@@ -83,7 +83,7 @@ Edge cases handled:
 
 ## 👨‍💻 Author
 
-Yavi Kush
+Yashvinder
 
 ## 📄 License
 
